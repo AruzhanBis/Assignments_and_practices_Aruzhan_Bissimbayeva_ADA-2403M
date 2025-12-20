@@ -73,8 +73,8 @@ g++ -fopenmp task3.cpp -o task3.exe
 task3.exe
 
 ## Используемые библиотеки и технологии
-- <iostream>, <cstdlib>, <ctime> - работа со стандартными библиотеками  
-- <chrono> – замер времени выполнения  
+- '<iostream>', '<cstdlib>', '<ctime>' - работа со стандартными библиотеками  
+- '<chrono>' – замер времени выполнения  
 - OpenMP (pragma omp parallel, reduction, critical)  
 
 ## Результаты
@@ -85,6 +85,7 @@ task3.exe
 
 ## Автор проекта  
 Студент: Aruzhan Bissimbayeva 
+
 Группа: ADA-2403M
 
 ## Преподаватель  
