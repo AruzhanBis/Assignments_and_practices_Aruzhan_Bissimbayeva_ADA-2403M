@@ -1,4 +1,7 @@
+#Aruzhan Bissimbayeva ADA-2403M
+#practice 3, task_1
 
+%%writefile task_1_cuda.cu  
 
 #include <iostream>
 #include <vector>
